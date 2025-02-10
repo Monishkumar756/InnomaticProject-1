@@ -1,0 +1,197 @@
+.all{
+        background-color: red;
+        color: white;
+        .o{
+            background-color: black;
+            color: white;
+            border-radius: 10px;
+            border-color: white;
+            height: 30px;
+            width: 200px;
+            box-sizing: content-box;
+        }
+        .k{
+            padding-right: 50px;
+        }
+    }
+    .p{
+        background-color: white;
+        .g{
+            padding-right: 80px;
+        }
+        .r{
+            background-color:black;
+            color: white;
+            border-color:white;
+            border-radius: 10px;
+            box-sizing: border-box;
+            box-shadow: 10px;
+            size: 50%;
+        
+        }
+    }
+    .s{
+        background-color: cornsilk;
+        background: rgba(0,0,0, 0.5)url(page\ 1.PNG);
+        background-blend-mode: darken;
+        background-size: cover;
+        height:500px;
+        margin: 0px;
+    }
+    .u{
+        padding:30px;
+        height: 350px;
+        padding-right: 300px;
+    }
+    .a{
+        background-color: black;
+        color: white;
+        height: 600px;
+        padding: 10px;
+        .f{
+            background-color:black;
+            border-color: white ;
+            border-radius: 10px ;
+            box-sizing: content-box;
+            border: 2px solid white;
+            width:400px;
+            height: 500px;
+        }
+    }
+    .p1{
+        display: flex;
+        gap: 40px;
+        padding-left: 100px;
+    }
+    .ti{
+        background-color: black;
+        color: white;
+        height: 50px;
+        width: 100px;
+        border-radius: 10px;
+    }
+    .as{
+        background-color:whitesmoke;
+        height: 500px;
+        .conin2{
+            border: 2px solid black;
+            width: 500px;
+        }
+    }
+    .new{
+        display: flex;
+        gap: 40px;
+        padding-left: 100px;
+    
+    }
+    .do{
+        border: 2px solid red;
+        box-sizing: content-box;
+        border-radius: 10px;
+        border-style: groove;
+        width: 150px;
+        height: 50px;
+        background-color: white;
+    
+    }
+    .c1{
+        background-color: white;
+        padding-left: 10px;
+    }
+    .hh{
+        background-color: black;
+        color: white;
+        padding-left: 200px;
+        .g1{
+            background-color: red;
+            border: 1px solid white;
+            box-sizing:border-box;
+            color: white;
+            width: 150px;
+            height: 50px;
+            border-radius: 20px;
+            text-size-adjust: 100px;
+            border-style: groove;
+        }
+        .j{
+            padding-left: 200px;
+        }
+    }
+    .con8{
+        background-color: whitesmoke;
+        padding-top: 10px;
+    }
+    .dd{
+        padding: 150px;
+        padding-top: 20px;
+        padding-right: 50px;
+        row-gap: 10px; 
+        
+        .v{
+            border-radius: 2px;
+            border: 2px solid black;
+            box-sizing: content-box;
+            border-radius: 10px;
+        }
+    }
+    
+    .ku{
+        padding: 90px;
+        padding-top: 10px;
+    }
+    .p3{
+        display: flex;
+        flex-wrap: wrap;
+        gap: 30px;
+    }
+    .x{
+        width: 400px;
+        border: 2px solid black ;
+    }
+    .had{
+        background-color: black;
+        color: white;
+    }
+    .se{
+        display: flex;
+        gap: 90px;
+    }
+    .cs{
+        width: 400px;
+    
+    }
+    .k2{
+        width: 200px;
+        height: 500px;
+    }
+    .k3{
+        width: 400px;
+        height: 500px;
+    }
+    .had{
+        padding: 100px;
+        padding-top: 10px;
+        height: 600px;
+    }
+    .sm{
+        background-color: grey;
+        padding-top: 20px;
+        padding: 20px;
+        
+    }
+    #si{
+        position: fixed;
+        right: -60px;
+        top:300px;
+        background-color: #E63135;
+        color: white;
+        padding-left: 20px;
+        padding-right: 20px;
+        font-size: 20px;
+        border-style: solid;
+        border-color: white;
+        border-radius: 5px;
+        border-width: 2px;
+        
+        rotate:360deg;
+    }
